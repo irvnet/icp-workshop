@@ -26,7 +26,7 @@ IBM Cloud Private is a full on-premise private cloud platform based that adds im
 
 #### 1. [The Value of Container Orchestration ](01-why-containers.md)
 
-#### 2. [Understanding BB&T's Objectives](02-target-objectives.md)
+#### 2. [Understanding Evaluation Objectives](02-target-objectives.md)
 
 #### 3. What is IBM Cloud Private?
 
