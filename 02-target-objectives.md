@@ -1,5 +1,5 @@
 
-## Understanding BB&T's Current Environment & Objectives
+## Understanding The Current Environment & Objectives
 
 **1. Initiative stakeholders**
 
