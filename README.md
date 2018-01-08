@@ -32,9 +32,9 @@ IBM Cloud Private is a full on-premise private cloud platform based that adds im
 
 #### 4. [IBM Cloud Private installation in IBM environment](04-installing-icp.md)
 
-#### 5. [Deploying to IBM Cloud Private](#)
+#### 5. Deploying to IBM Cloud Private
 
-#### 6. [Containerizing processes for deployment](#)
+#### 6. Containerizing processes for deployment
 
 
 ----
