@@ -24,17 +24,22 @@ IBM Cloud Private is a full on-premise private cloud platform based that adds im
 
 ### **Agenda Summary**
 
-#### 1. [The Value of Container Orchestration ](01-why-containers.md)
+#### 1. Introductions (Bryan)
 
-#### 2. [Understanding Evaluation Objectives](02-target-objectives.md)
+#### 2. [The Value of Container Orchestration ](01-why-containers.md) (Richard)
 
-#### 3. What is IBM Cloud Private?
+#### 3. [Understanding Evaluation Objectives](02-target-objectives.md)
 
-#### 4. [IBM Cloud Private installation in IBM environment](04-installing-icp.md)
+#### 4. What is IBM Cloud Private? (Kevin)
 
-#### 5. Deploying to IBM Cloud Private
+#### 5. [IBM Cloud Private installation in IBM environment](04-installing-icp.md) (Oren)
 
-#### 6. Containerizing processes for deployment
+#### 6. Deploying to IBM Cloud Private (Richard)
+
+#### 7. Containerizing processes for deployment (Richard)
+
+#### 8. Wrap-up and Next Steps (Bryan)
+
 
 
 ----
