@@ -54,7 +54,7 @@ $ docker stop mynode-sample
 
 ---
 
-## Task 2: Deploy rom the ICP cluster image repository
+## Task 2: Deploy from the ICP cluster image repository
 
 1. login to the cluster repo (username: admin / pwd: admin)
 
