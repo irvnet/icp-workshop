@@ -1,7 +1,7 @@
 
 ## Containerizing a process for deployment
 
-**In this section**, you will get all the components installed to begin interacting with the cluster with things such as the docker, helm and kubectl. If you're familiar with using these clients you can skip this section.... otherwise, we'll start installing our clients on Ubuntu 16.04 desktop.
+**In this section**, you will get all the components installed to begin interacting with the cluster with things such as the docker, helm, kubectl and bx. If you're familiar with using these clients you can skip this section.... otherwise, we'll start installing our clients on an Ubuntu 16.04 desktop.
 
 ---
 
@@ -67,14 +67,19 @@ $ sudo mv ./kubectl /usr/local/bin/kubectl
 
 ```
 
-With the kubectl client in place, it can be configured to connect to the ICP cluster. Choose the "configure client" from the menu and paste the provided commands to the command line.
+3. With the kubectl client in place, the client can be configured to connect to the ICP cluster. Choose the "configure client" from the menu
 
 ![](images/configure-icp-client.jpg)
 
-3. Test the newly configured client.
+
+4. Copy the series of commands provided in the window, paste them into the terminal and hit [ENTER] to execute the provided commands. This will configure the client to talk to the ICP cluster.
+
+![](images/kubectl-config.jpg)
+
+
+5. Test the newly configured client.
 ```
 $ kubectl cluster-info
-
 
 ```
 
