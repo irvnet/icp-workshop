@@ -1,9 +1,7 @@
 
 ## Containerizing a process for deployment
 
-**In this section**, you will get all the components installed to begin interacting with the cluster with things such as the docker, helm and kubectl. If you're familiar with using these clients you can skip this section.
-
-To keep things simple and consistent, we'll stick with Ubuntu 16.04 but as a desktop instead of a server.
+**In this section**, you will get all the components installed to begin interacting with the cluster with things such as the docker, helm and kubectl. If you're familiar with using these clients you can skip this section.... otherwise, we'll start installing our clients on Ubuntu 16.04 desktop.
 
 ---
 
@@ -46,12 +44,8 @@ Digest: sha256:66ef312bbac49c39a89aa9bcc3cb4f3c9e7de3788c944158df3ee0176d32b751
 Status: Downloaded newer image for hello-world:latest
 e176cbbe173e3c7fac5355df3b7572e82f47b6eaba2790b6aac8ccc7c27d8705
 
-
 ```
 
-#### **Docker Resources**
-
-- [Official Docker Installation Documentation](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
 
 ---
 
@@ -87,10 +81,6 @@ $ kubectl cluster-info
 Summary: The newly configured kubectl client should provide details about the ICP cluster and provide an opportunity to run and manage workloads in cluster.
 
 
-#### Kubectl Resources
-
-- [kubectl Installation Documentation](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
-
 
 ---
 
@@ -109,14 +99,33 @@ $ helm init
 
 ```
 
-#### Helm Resources
-
 ---
 
 ## Task 4: Installing the bx client and pr sub-command
 
 The bx client is best for connecting to the public IBM Cloud... however the 'pr' subcommand is helpful to upload packaged helm charts to the helm repository for the ICP cluster. In this section we'll install the bx command and add the pr subcommand.
 
-#### bx client resources
+1. Download and install the bx client
+```
+curl -fsSL https://clis.ng.bluemix.net/install/linux | sh
+```
+
+2. From the Command Line Tools -> Cloud Private cli menu download the 'pr' plugin and install using the bx command typing:
+
+```
+$ bx plugin install icp-linux-amd64
+```
+
+---
+
+Resources:
+
+- [Adding applications to the ICP catalog](https://www.ibm.com/support/knowledgecenter/en/SSBS6K_2.1.0/app_center/add_package_offline.html)
+
+- [kubectl Installation Documentation](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
+
+- [ Docker Installation Documentation](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
+
+
 
 ---
