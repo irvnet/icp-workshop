@@ -43,7 +43,7 @@ IBM Cloud Private is a full on-premise private cloud platform based that adds im
 
 #### 6. Deploying to IBM Cloud Private (Richard)
 
-#### 7. [Containerizing processes for deployment](07-containerizing-for-deploy.md) (Richard)
+#### 7. [Containerizing processes for deployment](07a-containerizing-for-deploy.md) (Richard)
 
 #### 8. Wrap-up and Next Steps (Bryan)
 
