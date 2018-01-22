@@ -18,6 +18,8 @@
 3. What are the pre-requisites for installing IBM Cloud Private?
 [https://ibm.co/2AAAkkf](https://ibm.co/2AAAkkf)
 
+Sample scripts are available under the scripts directory and were tested for ICP v2.1 on Ubuntu 16.04. sample-node-init.sh illustrates a simple shell script to install pre-requisites that need to be done on all of the nodes. 
+
 4. How does the IBM Cloud Private installation work?
 [https://ibm.co/2yEy5es](https://ibm.co/2yEy5es)
 
