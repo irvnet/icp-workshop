@@ -26,25 +26,28 @@ IBM Cloud Private is a full on-premise private cloud platform based that adds im
 
 ### **Agenda Summary**
 
-### **_Day 1_**
+### **_Day 1_** (9:00am - 4:30pm EST)
 
-#### 1. Introductions (Bryan)
+- #### Session Overview & Introductions (Bryan) - .5hrs
 
-#### 2. [The Value of Container Orchestration ](01-why-containers.md) (Richard)
+- #### [The Value of Container Orchestration ](01-why-containers.md) (Richard) - .5hrs
 
-#### 3. [Understanding Evaluation Objectives](02-target-objectives.md) (Richard)
+- #### [Understanding Evaluation Objectives](02-target-objectives.md) (Richard) - 4hrs
 
-#### 4. What is IBM Cloud Private? (Kevin)
+- #### Lunch
+
+- #### IBM Cloud Private - presentation / demo (Kevin) - 1.5 hrs
+
+- #### [IBM Cloud Private installation in IBM environment](04-installing-icp.md) (Oren) - 1.5 hrs
+
+- #### Session Wrapup / Q&A (Bryan) - .5hrs
 
 
-### **_Day 2_**
+### **_Day 2_** (9:00am - 11:00am EST)
+- #### Session Overview & Day 1 recap (Bryan) - .5hrs
 
-#### 5. [IBM Cloud Private installation in IBM environment](04-installing-icp.md) (Oren/Kevin)
+- #### [Containerizing processes for deployment](07b-containerizing-for-deploy.md) (Richard) - 1.5hrs
 
-#### 6. Deploying to IBM Cloud Private (Richard)
-
-#### 7. [Containerizing processes for deployment](07a-containerizing-for-deploy.md) (Richard)
-
-#### 8. Wrap-up and Next Steps (Bryan)
+- #### Wrap-up and Next Steps (Bryan) - .5hrs
 
 ----
