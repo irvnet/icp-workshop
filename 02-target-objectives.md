@@ -33,11 +33,11 @@ c) _Please describe key 2018 development objectives:_
 
 a) Please describe the top 3 desired outcomes from building a test environment.
 
-Item  | Actors Affected  | Outcome Description
---|---|---|
-01.  |   |   |
-02.  |   |   |
-03.  |   |   |
+Item | Actors Affected | Outcome Description
+---- | --------------- | -------------------
+01.  |                 |
+02.  |                 |
+03.  |                 | 
 
 
 ![](images/classify-outcomes.jpg)
