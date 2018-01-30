@@ -52,8 +52,8 @@ a) Please describe the top 3 desired outcomes from building a test environment.
 
 **_Open Items and Todo's for this segment_**
 
-Item  | Owner  | Item Description | Target Date
---|---|---|---|
-01.  |   |   |
-02.  |   |   |
-03.  |   |   |
+| Item | Owner | Item Description | Target Date |
+|------|:-----:|:-----------------|:------------|
+| 01.  |       |                  |             |
+| 02.  |       |                  |             |
+| 03.  |       |                  |             |
